@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "app de turismo con bootstrap v4",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "yerson.pl@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
